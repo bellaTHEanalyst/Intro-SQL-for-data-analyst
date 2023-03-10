@@ -1,5 +1,5 @@
 # Intro-SQL-for-data-analyst
-The role of a data scientist is to turn raw data into actionable insights. Much of the world's raw data—from electronic medical records to customer transaction histories—lives in organized collections of tables called relational databases. Therefore, to be an effective data scientist, you must know how to wrangle and extract data from these databases using a language called SQL (pronounced ess-que-ell, or sequel). This course teaches you everything you need to know to begin working with databases today!
+The role of a data analyst is to use raw data to find insights and help  make data driven decision. Much of the world's raw data—from electronic medical records to customer transaction histories—lives in organized collections of tables called relational databases. Therefore, to be an effective data scientist, you must know how to wrangle and extract data from these databases using a language called SQL (pronounced ess-que-ell, or sequel). This course teaches you everything you need to know to begin working with databases today!
 
 My thoughts: Was a flexible and expanatory with practice exercises.
 
