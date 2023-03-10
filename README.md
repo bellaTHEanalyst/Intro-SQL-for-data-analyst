@@ -14,3 +14,7 @@ The code was structured exactly as the same way of course structure:
 *Part 3 - Aggregate Functions This chapter builds on the first two by teaching you how to use aggregate functions to summarize your data and gain useful insights. Additionally, you'll learn about arithmetic in SQL, and how to use aliases to make your results more readable!
 
 *Part 4 - Sorting, grouping and joins This chapter provides a brief introduction to sorting and grouping your results, and briefly touches on the concept of joins.
+
+Each module I separated by the following structure:
+
+ 
