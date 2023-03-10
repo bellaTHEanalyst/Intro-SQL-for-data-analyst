@@ -15,6 +15,6 @@ The code was structured exactly as the same way of course structure:
 
 * Part 4 - Sorting, grouping and joins This chapter provides a brief introduction to sorting and grouping your results, and briefly touches on the concept of joins.
 
-Each module I separated by the following structure:
+
 
  
